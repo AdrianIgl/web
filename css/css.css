@@ -1,0 +1,47 @@
+#fototop {
+    
+    background-image: url(../img/fondo1.jpg);
+    background-position:top ;
+    background-repeat: no-repeat;
+    padding: 50px;
+    background-size: cover;
+}
+#fotobot {
+    
+    background-image: url(../img/fondo2.jpg);
+    background-position:bottom;
+    background-repeat: no-repeat;
+    padding: 50px;
+    background-size: cover;
+}
+#imagen {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#imagen3{
+    text-align: right;
+}
+#titulo{
+    text-align: center;
+    
+}
+#egt{
+    width:100%;
+}
+#texto{
+    text-align: center;
+    color: gold;
+}
+#imagen7 {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+ 
+}
+#cuadrado{
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+    margin: auto;
+}
